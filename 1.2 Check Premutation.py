@@ -9,4 +9,4 @@ def Is_prem(string1, string2):
         return sorted(string1) == sorted(string2)
         #return sorted(string1.lower()) == sorted(string2.lower())
 
-print(Is_prem('college', 'egLleco'))
+
